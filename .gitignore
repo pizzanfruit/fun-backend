@@ -1,5 +1,2 @@
-# Credentials
-*.json
-
-# Compiled files
-*.exe
+.env
+.docker_build/
